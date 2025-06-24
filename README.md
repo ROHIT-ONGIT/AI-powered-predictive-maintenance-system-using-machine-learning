@@ -21,7 +21,7 @@ The main aim is to build a modular and extensible backend system that uses machi
 
 2. Anomaly Detection: Flag abnormal patterns in real-time sensor data.
 
-3. Dashboard Readiness: Output-ready design to connect with a GUI or embedded interface.
+3. Dashboard Readiness: Output-ready design to connect with a GUI or embedded interface. it also helps to find the remaining useful life of a equiptment . 
 
 # Presented  Solution for problem
 
