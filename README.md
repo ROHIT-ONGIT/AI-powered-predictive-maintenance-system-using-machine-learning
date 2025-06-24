@@ -44,6 +44,11 @@ Machine learning models (e.g., Random Forest, Isolation Forest) are tested on th
 5. Modular Design:
 The code is kept flexible for future integration with GUI dashboards or real-time embedded systems.
 
+# Data Source
+Battery : Remaining useful life (RUL) task use battery dataset which is downloaded from https://ieee-dataport.org/documents/lithium-ion-battery-data-set and battery B0005 is chosen as study object.
+
+Bearing :  Both anomaly detection and failure prediction use bearing dataset which is provided by https://engineering.case.edu/bearingdatacenter and downloaded from https://github.com/Yi-Chen-Lin2019/Predictive-maintenance-with-machine-learning
+
 
 # Tools & Technologies
 Python (Pandas, NumPy, Scikit-learn, Matplotlib)
